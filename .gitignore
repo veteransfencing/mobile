@@ -1,0 +1,46 @@
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# resources we can/will regenerate
+/android/app/src/*/res/mipmap-hdpi
+/android/app/src/*/res/mipmap-mdpi
+/android/app/src/*/res/mipmap-xhdpi
+/android/app/src/*/res/mipmap-xxhdpi
+/android/app/src/*/res/mipmap-xxxhdpi
+/android/app/src/*/res/drawable-hdpi
+/android/app/src/*/res/drawable-mdpi
+/android/app/src/*/res/drawable-xhdpi
+/android/app/src/*/res/drawable-xxhdpi
+/android/app/src/*/res/drawable-xxxhdpi
+/android/app/src/*/res/drawable-v21/
+/android/app/src/*/res/drawable/
+/android/app/src/*/res/values-night-v31
+/android/app/src/*/res/values-night/
+/android/app/src/*/res/values-v31
+
+/ios/Runner/Assets.xcassets/
+
+/macos/Runner/Assets.xcassets/
+
+/web/splash
+
+# environment settings inside the build
+/lib/env

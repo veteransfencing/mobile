@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "477277479162",
+    "project_id": "veteransfencingeu-9ffe3",
+    "storage_bucket": "veteransfencingeu-9ffe3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477277479162:android:e2f4b09ef839f6c504a943",
+        "android_client_info": {
+          "package_name": "eu.veteransfencing.myevf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQCUwLbJQjTypnx_NtPEjquZUkLXUViSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477277479162:android:9a528f855e75ec7904a943",
+        "android_client_info": {
+          "package_name": "eu.veteransfencing.myevf.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQCUwLbJQjTypnx_NtPEjquZUkLXUViSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

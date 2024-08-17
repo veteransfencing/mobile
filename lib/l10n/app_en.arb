@@ -1,0 +1,255 @@
+{
+    "@@locale": "en",
+
+    "navHome": "Home",
+    "@navHome": {
+      "description": "Bottom navigation bar Home button"
+    },
+    "navRanking": "Ranking",
+    "@navRanking": {
+      "description": "Bottom navigation bar Ranking (events) button"
+    },
+    "navResults": "Results",
+    "@navResults": {
+      "description": "Bottom navigation bar Results (equalizer) button"
+    },
+    "navCalendar": "Calendar",
+    "@navCalendar": {
+      "description": "Bottom navigation bar Calendar button"
+    },
+    "navAccount": "Account",
+    "@navAccount": {
+      "description": "Bottom navigation bar Account button"
+    },
+    "navResultsFeed": "Results",
+    "@navLiveFeed": {
+      "description": "Text on the results feed button"
+    },
+
+    "labelCategory": "Category",
+    "@labelCategory": {
+      "description": "Ranking or competition category"
+    },
+    "labelCategoryCat1": "Cat 1",
+    "labelCategoryCat2": "Cat 2",
+    "labelCategoryCat3": "Cat 3",
+    "labelCategoryCat4": "Cat 4",
+    "labelCategoryCat1Short": "1",
+    "labelCategoryCat2Short": "2",
+    "labelCategoryCat3Short": "3",
+    "labelCategoryCat4Short": "4",
+
+    "labelWeapon": "Weapon",
+    "@labelWeapon": {
+      "description": "Ranking or competition weapon"
+    },
+    "labelWeaponMF": "Mens Foil",
+    "labelWeaponME": "Mens Epee",
+    "labelWeaponMS": "Mens Sabre",
+    "labelWeaponWF": "Womens Foil",
+    "labelWeaponWE": "Womens Epee",
+    "labelWeaponWS": "Womens Sabre",
+    "labelWeaponMFShort": "MF",
+    "labelWeaponMEShort": "ME",
+    "labelWeaponMSShort": "MS",
+    "labelWeaponWFShort": "WF",
+    "labelWeaponWEShort": "WE",
+    "labelWeaponWSShort": "WS",
+
+    "labelName": "Name",
+    "labelCountry": "Country",
+    "labelCurrentRank": "Ranking",
+    "labelChange": "Change",
+    "labelConfirm": "Confirm",
+    "labelVerify": "Verify",
+    "labelResend": "Resend",
+    "labelOk": "Ok",
+    "labelCancel": "Cancel",
+    "labelSurname": "Surname",
+    "labelGivenname": "Given name",
+    "labelGender": "Gender",
+    "labelMale": "Male",
+    "labelFemale": "Female",
+    "labelDateOfBirth": "Date of Birth",
+    "labelNoDatePicked": "none set",
+    "labelNoCountryPicked": "Select",
+    "labelOtherCountry": "Other",
+    "labelLink": "Link",
+    "labelUpdate": "Update",
+    "labelUnfollow": "Unfollow",
+    "labelBlock": "Block",
+    "labelUnblock": "Unblock",
+    "labelFollowResults": "Results",
+    "labelFollowRanking": "Ranking",
+    "labelFollowRegister": "Registration",
+    "labelFollowEvent": "Event actions",
+    "labelAnonymous": "Anonymous",
+    "labelLanguage": "Language",
+    "labelEnglish": "English",
+    "labelDutch": "Dutch",
+
+    "headerCountry": "Cnt",
+    "headerEvent": "Event",
+    "headerLocation": "Location",
+    "headerDate": "Date",
+    "headerPosition": "Pos",
+    "headerPoints": "Pnts",
+    "headerDEPoints": "DE",
+    "headerPodiumPoints": "Pod",
+    "headerTotalPoints": "Total",
+
+    "calendarDate": "{date}",
+    "@calendarDate": {
+      "description": "Date format used in the Calendar page",
+      "placeholders": {
+        "date": {
+          "type": "DateTime",
+          "format": "MMMd"
+        }
+      }
+    },
+
+    "resultDate": "{date}",
+    "@resultDate": {
+      "description": "Date format used in the Rank Details page for results",
+      "placeholders": {
+        "date": {
+          "type": "DateTime",
+          "format": "yMd"
+        }
+      }
+    },
+
+    "birthDate": "{date}",
+    "@birthDate": {
+      "description": "Date format used to display the birth date of a fencer",
+      "placeholders": {
+        "date": {
+          "type": "DateTime",
+          "format": "yMd"
+        }
+      }
+    },
+
+    "titleRankingDetails": "Ranking Details",
+    "@titleRankingDetails": {
+      "description": "title of the Ranking Details widget"
+    },
+    "titleResultsDetails": "Results",
+    "@titleResultsDetails": {
+      "description": "title of the Result Details widget"
+    },
+    "titleAccount": "Account",
+    "@titleAccount": {
+      "description": "title of the Account widget"
+    },
+    "titleFencer": "Fencer",
+    "@titleFencer": {
+      "description": "title of the Account-Fencer widget"
+    },
+    "titleFriends": "Friends",
+    "@titleFriends": {
+      "description": "title of the Account-Friends widget"
+    },
+    "titleSettings": "Settings",
+    "@titleSettings": {
+      "description": "title of the Account-Settings widget"
+    },
+    "titleConfirmation": "Confirm",
+    "titleAlert": "Alert!",
+
+    "descrDevice": "These are your account and device IDs. Please mention these if you have questions about your account:",
+    "descrWebmaster": "If you encounter problems, please contact webmaster@veteransfencing.eu",
+    "descrLanguage": "Choose the language used for personalized server messages. This is set by default to your device language setting, but you may want to override it.",
+    "descrEmail": "Enter your e-mail address to connect your account",
+    "descrEmailInput": "Enter an e-mail address",
+    "descrVerificationCodeInput": "Enter code",
+    "descrResend": "Resend the verification message",
+    "descrWaitingForCode": "An e-mail with a code was sent. Please enter the verification code below",
+    "descrResendTooSoon": "Please wait a moment before retrying to resend the verification e-mail",
+    "descrEnterVerificationCode": "Please enter the verification code below",    
+    "descrEmailVerified": "The address was verified",
+    "descrReplaceEmail": "The address was already verified. Do you want to replace this address?",
+    "descrEnterDate": "Please enter a valid date",
+    "descrFollowing": "This is a list of fencers you follow. You can adjust the type of notifications you receive for each individual",
+    "descrNoFollowing": "You are currently not following any people",
+    "descrFollowers": "This is a list of accounts that follow you. You can choose to block or unblock individual accounts",
+    "descrNoFollowers": "You have no followers at this time",
+    "descrSettingsFollowing": "You can indicate which notifications to receive if you start following an individual.",
+    "descrFollowResults": "Get a notification if the fencer achieves a competition result",
+    "descrFollowRanking": "Get a notification if the fencer ranking is updated",
+    "descrFollowRegistration": "Get a notification when the fencer registers for a competition or event",
+    "descrFollowEvent": "Get a notification for tournament related events",
+    "descrSettingsFollower": "You can indicate which notifications your followers can receive.",
+    "descrAllowBase": "Allow followers to receive notifications when:",
+    "descrAllowResults":  "I achieve a competition result",
+    "descrAllowRanking": "My ranking position is updated",
+    "descrAllowRegistration": "I register for a competition",
+    "descrAllowHandout": "I receive my accreditation badge",
+    "descrAllowCheckin": "I submit my bag to weapon control",
+    "descrAllowCheckout": "My bag is ready for checkout",
+
+    "descrFencer": "You can link your account to a specific fencer. If it does not exist yet, it is created.",
+    "descrGivenNameInput": "Enter your given name",
+    "descrSurnameInput": "Enter your surname",
+    "descrReplaceFencer": "The fencer was already linked. Do you want to update the information?",
+
+    "titleRanking": "Ranking for {weapon} {category} of {date}",
+    "@titleRanking": {
+      "description": "title above the ranking table",
+      "placeholders": {
+        "weapon": {
+          "type": "String"
+        },
+        "category": {
+          "type": "String"
+        },
+        "date": {
+          "type": "DateTime",
+          "format": "yMd"
+        }
+      }
+    },
+
+    "errorNoPageWidget": "no widget for {currentPageIndex}",
+    "@errorNoPageWidget": {
+      "description": "Error thrown if the selected page index falls outside the programmatic boundaries",
+      "placeholders": {
+        "currentPageIndex": {
+          "type": "int",
+          "example": "5"
+        }
+      }
+    },
+
+    "errorInternalError": "The application encountered an internal error. The developers have been notified. Please restart the application to prevent synchronization issues",
+    "errorInvalidEmail": "Please enter a correct e-mail address",
+    "errorInvalidVerificationCode": "Please enter a valid verification code",
+    "errorNotVerified": "There was an error sending the verification message. Please check your e-mail address and try again",
+    "errorNotChecked": "There was an error checking the verification code. Please check the code and try again",
+    "errorUserMerged": "There was another account using the same e-mail address. The accounts have been merged",
+    "errorEmptySurname": "Please enter a surname of at least 2 characters",
+    "errorEmptyGivenName": "Please enter a given name of at least 2 characters",
+    "errorInvalidDate": "Please enter or pick a valid date",
+    "errorTooOld": "You picked a date of birth that is too long ago",
+    "errorTooYoung": "You picked a date of birth that is too recent",
+    "errorFencerNotFound": "The fencer data was not found. Do you want to create a new entry or go back and adjust the data",
+    "errorLinkError": "There was an error linking the fencer data to the account. Please check the data and try again",
+
+    "notifyYouResult": "You ended up on place {place} at {location} in {weapon} {category}",
+    "notifyTheyResult": "{name} ended up on place {place} at {location} in {weapon} {category}",
+    "notifyYouRanking": "Your ranking is currently place {place} in {weapon} {category}",
+    "notifyTheyRanking": "{name} currently ranks at place {place} in {weapon} {category}",
+    "notifyYouRegister": "You are registered for {weapon} {category} in {location} on {date}",
+    "notifyTheyRegister": "{name} is registered for {weapon} {category} in {location} on {date}",
+    "notifyYouHandout": "You received your accreditation badge in {location}",
+    "notifyTheyHandout": "{name} has received their accreditation badge in {location}",
+    "notifyYouCheckin": "You checked in your equipment at weapon control in {location}",
+    "notifyTheyCheckin": "{name} checked in their equipment at weapon control in {location}",
+    "notifyYouCheckout": "Your equipment has finished the equipment check; you can retrieve it",
+    "notifyTheyCheckout": "The equipment of {name} has finished the equipment check and is ready for retrieval",
+    "notifyYouCheckoutError": "Your equipment has finished the equipment check, but issues were found; you can retrieve it",
+    "notifyTheyCheckoutError": "The equipment of {name} has finished the equipment check with issues and is ready for retrieval",
+    "notifyYouCheckedOut": "You retrieved your equipment at weapon control in {location}",
+    "notifyTheyCheckedOut": "{name} has retrieved their equipment at weapon control in {location}"
+}
